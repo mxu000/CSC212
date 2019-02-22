@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1521567070 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence3\sequence3\node1.cpp
+	"node1.h"
+	<cassert>
+	<cstdlib>
+
+1521567026 d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence3\sequence3\node1.h
+	<cstdlib>
+
+1521570746 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence3\sequence3\seq_ex3.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"sequence3.h"
+
+1521569029 d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence3\sequence3\sequence3.h
+	<cstdlib>
+	"node1.h"
+
+1521578028 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence3\sequence3\sequence3.cpp
+	<cassert>
+	"sequence3.h"
+
