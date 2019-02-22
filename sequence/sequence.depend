@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1519189843 source:c:\users\ming\desktop\sequence\sequence1.cpp
+	"sequence1.h"
+	<cassert>
+	<cstdlib>
+
+1519179521 c:\users\ming\desktop\sequence\sequence1.h
+	<cstdlib>
+
+1519179055 source:c:\users\ming\desktop\sequence\sequence_exam.cpp
+	<iostream>
+	<cstdlib>
+	"sequence1.h"
+
+1519184554 source:c:\users\ming\desktop\sequence\sequence_test.cpp
+	<cctype>
+	<iostream>
+	<cstdlib>
+	"sequence1.h"
+
