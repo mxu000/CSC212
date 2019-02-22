@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1518579690 source:c:\users\ming\desktop\stat\statexam.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<string.h>
+	"stats.h"
+
+1518581930 c:\users\ming\desktop\stat\stats.h
+	<iostream>
+
+1518648704 source:c:\users\ming\desktop\stat\stats.cpp
+	<assert.h>
+	"stats.h"
+
+1518583530 source:c:\users\ming\desktop\stat\stattest.cpp
+	<cctype>
+	<iomanip>
+	<iostream>
+	<cstdlib>
+	"stats.h"
+

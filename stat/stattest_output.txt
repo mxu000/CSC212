@@ -1,0 +1,287 @@
+Three statisticians s1, s2, and s3 are ready to test.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: t
+The values are given in this table:
+        LENGTH       SUM   MINIMUM      MEAN   MAXIMUM
+  s1         0         0      none      none      none
+  s2         0         0      none      none      none
+  s3         0         0      none      none      none
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: 1
+Please enter the next real number for the sequence: 1
+1 has been read.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: 1
+Please enter the next real number for the sequence: 2
+2 has been read.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: 1
+Please enter the next real number for the sequence: 3
+3 has been read.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: 1
+Please enter the next real number for the sequence: 4
+4 has been read.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: 2
+Please enter the next real number for the sequence: 1
+1 has been read.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: 2
+Please enter the next real number for the sequence: 1.5
+1.5 has been read.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: 2
+Please enter the next real number for the sequence: 3.5
+3.5 has been read.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: 2
+Please enter the next real number for the sequence: 4
+4 has been read.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: t
+The values are given in this table:
+        LENGTH       SUM   MINIMUM      MEAN   MAXIMUM
+  s1         4        10         1       2.5         4
+  s2         4        10         1       2.5         4
+  s3         0         0      none      none      none
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: e
+s1 and s2 are equal.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: +
+s3 has been set to s1 + s2
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: t
+The values are given in this table:
+        LENGTH       SUM   MINIMUM      MEAN   MAXIMUM
+  s1         4        10         1       2.5         4
+  s2         4        10         1       2.5         4
+  s3         8        20         1       2.5         4
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: *
+Please type a value for x: -10
+s3 has been set to -10 * s1
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: t
+The values are given in this table:
+        LENGTH       SUM   MINIMUM      MEAN   MAXIMUM
+  s1         4        10         1       2.5         4
+  s2         4        10         1       2.5         4
+  s3         4      -100       -40       -25       -10
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: r
+Which one should I reset (1, 2, 3)
+Enter choice: 3
+Reset activated for s3.
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: t
+The values are given in this table:
+        LENGTH       SUM   MINIMUM      MEAN   MAXIMUM
+  s1         4        10         1       2.5         4
+  s2         4        10         1       2.5         4
+  s3         0         0      none      none      none
+
+
+The following choices are available:
+ R  Activate one of the reset( ) functions
+ 1  Add a new number to the 1st statistician s1
+ 2  Add a new number to the 2nd statistician s2
+ 3  Add a new number to the 3rd statistician s3
+ T  Print a table of values from the statisticians
+ E  Test whether s1 == s2
+ +  Set the third statistician s3 equal to s1 + s2
+ *  Set the third statistician s3 equal to x*s1
+ Q  Quit this test program
+Enter choice: q
+Ridicule is the best test of truth.
+
+Process returned 0 (0x0)   execution time : 55.501 s
+Press any key to continue.
