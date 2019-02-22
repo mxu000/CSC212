@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1520301853 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence2\sequence2\seq_ex2.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"sequence2.h"
+
+1520304487 d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence2\sequence2\sequence2.h
+	<cstdlib>
+
+1520305300 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence2\sequence2\sequence2.cpp
+	"sequence2.h"
+	<cassert>
+
+1520305456 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\sequence2\sequence2\sequence_test.cpp
+	<cctype>
+	<iostream>
+	<cstdlib>
+	"sequence2.h"
+
