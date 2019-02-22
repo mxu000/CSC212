@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1522882335 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\recfun\rec_fun1\rec_fun.cpp
+	<iostream>
+	<cassert>
+	"rec_fun.h"
+
+1522879244 d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\recfun\rec_fun1\rec_fun.h
+	<iostream>
+	<cassert>
+
+1522882325 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\recfun\rec_fun1\rec_test.cpp
+	<iostream>
+	<cassert>
+	<cstring>
+	"rec_fun.h"
+
