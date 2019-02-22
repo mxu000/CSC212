@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1525470591 source:d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\binarytree\bintree\bagexam.cpp
+	<iostream>
+	<cstring>
+	"bag6.h"
+
+1525470606 d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\binarytree\bintree\bag6.h
+	<cstdlib>
+	"bintree.h"
+	"bag6.template"
+
+1525469333 d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\binarytree\bintree\bintree.h
+	<cstdlib>
+	"bintree.template"
+
+1525470613 d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\binarytree\bintree\bintree.template
+	<cassert>
+	<cstdlib>
+	<iomanip>
+	<iostream>
+
+1525470807 d:\pokemon\other_shit\ccny\spring2018\csc212\assignments\binarytree\bintree\bag6.template
+	<cassert>
+	<cstdlib>
+
